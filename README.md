@@ -11,4 +11,5 @@ I hope to learn how data visualization can serve as a medium to empower those th
 
 # Portfolio
 exciting projects coming soon...
-An assignment and experiementation with OECD data: mtkhan_portfolio/OECD_Data_Visualization 
+An assignment and experiementation with OECD data: 
+mtkhan_portfolio(/OECD_DataViz.md) 
