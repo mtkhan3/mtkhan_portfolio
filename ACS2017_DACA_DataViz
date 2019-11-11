@@ -1,0 +1,13 @@
+DACA Recipients, Table 1 https://www.americanprogress.org/issues/immigration/news/2019/09/12/474422/know-daca-recipients-state/ 
+(Svajlenka 2019, Center for American Progress)
+
+I chose the following visualization to critique because as I was reading the article, I was surprised to find how cluttered it was with number that had little to no relevance to the context of the article. Furthermore, it seemed that with a little but of effort, this visualization could tell a story to highlight the variations talked about in the article. 
+
+The process to creating an iteration of a data visualization was more of an artful process than a scientific approach. I began by analyzing the original piece and picking out what I liked about it and considering what could make the visualization more insightful. The main insight I gained from the critiques and analysis was that the type of data visualization was a good choice but the amount of information was overwhelming. 
+
+After considering all the pros and cons via the critiques and analysis, I began drafting on pen and paper a counter visualization that included the elements from my analysis earlier. The first draft I created, I felt was too simple so I created another one with a little bit more information this time. To combat making the visualization overwhelming, I made sure to stick with one font type and one color range. 
+
+After wireframing, I shared my design with my roommate and little sister to get insights on how they read this data visualization. My roommate is a PhD candidate in Political Science at the University of Pittsburgh so she matched the audience that this article was catering to. My little sister is not in the policy field so her opinion as an average individual was also valuable. Both of them liked that the information was listed in descending order and thought the labels were clear and easy to understanding. The two biggest pieces feedback I gained was that it was hard to analyze the large difference since the graphs were below each other. I considered how eye travel affected this because they were having to move their eyes from left to right, then down, then left to right, etc. This largely impact my design because I moved the graphs to be right next to each other, all horizontally, and I think it significant improved the design by reducing eye travel. 
+
+Finally, I used Tableau to utilize the data that I was able to recreate by taking the Top 10 states mentioned in the article and started playing around with the visualization. My aim was to highlight the states that are talked about in the article and reduce the data that was irrelevant to the story, while still retaining visual appeal and interest. 
+
