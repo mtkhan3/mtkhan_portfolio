@@ -9,8 +9,8 @@ Maria T. Khan is a writer, daughter, immigrant, a proud Muslim-American and an o
 # What I hope to learn
 I hope to learn how data visualization can serve as a medium to empower those that are not literate in statistical analysis to understand the data and utilize it in their respective work. I believe that the data we collect is only as valuable as how we craft and tell a story about it. I don't want to be a great data analyst, I want to be a great data storyteller. I hope to learn how to capture the attention of stakeholders with data visualization and start conversations on improving systems based on data. 
 
-# Portfolio
-moreexciting projects coming soon...
-
+# Working Portfolio 
 An assignment and experiementation with OECD data: 
 [OECD Visualizations](/OECD_DataViz.md) 
+
+An assignment and experimentation with ACS 2017 data: 
