@@ -12,6 +12,7 @@ I. Xenophobia is a global phenomenon, including in our home; the United States.
   https://www.un.org/press/en/2016/gashc4182.doc.htm
   https://psmag.com/social-justice/trump-anti-immigrant-rhetoric-making-americans-more-xenophobic
   https://journals.sagepub.com/doi/abs/10.1177/0003122418794635?journalCode=asra
+
 II. Myth 1: Increase in Immigrants Increases Crimes + Violence
   Data Visualization 1: 
   Truth: “Each one of those murders is a tragedy but the chance that an American would be successfully killed by a refugee terrorist was one in 3.6 billion a year. Each year an American had a 0.000000028 percent chance of being murdered by a refugee terrorist each year (for those with poor eyesight, that’s seven zeros to the right of the decimal point). That's a small risk.”
@@ -26,6 +27,7 @@ II. Myth 1: Increase in Immigrants Increases Crimes + Violence
   Truth: “According to the U.S. Chamber of Commerce, while the overall percentage of immigrants and the number of undocumented immigrants in the U.S. both increased sharply between 1990 and 2010, the violent crime rate in the U.S. during that time plummeted 45 percent and the property crime rate dropped by 42 percent.”
     Source: US Chamber of Commerce
     Link: https://www.adl.org/resources/fact-sheets/myths-and-facts-about-immigrants-and-immigration-en-espanol
+
 III. Myth 2: Immigrants take jobs from native born Americans.
   Data Visualization 2: 
   Truth: “This paper demonstrates that low-skilled Mexican-born immigrants’ location choices respond strongly to changes in local labor demand, which helps equalize spatial differences in employment outcomes for low-skilled native workers… Further, Mexican mobility reduced the incidence of local demand shocks on natives, such that those living in metro areas with a substantial Mexican-born population experienced a roughly 50 percent weaker relationship between local shocks and local employment probabilities.” 
@@ -34,6 +36,7 @@ III. Myth 2: Immigrants take jobs from native born Americans.
   Truth: “Immigrants make up 17 percent of the U.S. labor force, according to the U.S. Bureau of Labor Statistics. Census data shows that immigrants accounted for 24 percent of nursing, psychiatric and home care aides in 2015. A study from the bipartisan research organization New American Economy found immigrants were 15 percent more likely to work unusual hours than similar U.S.-born workers. They are also more likely to be employed in dangerous jobs, according to data from the American Community Survey and Bureau of Statistics.”
     Source: PBS.org 
     Link: https://www.pbs.org/newshour/economy/making-sense/4-myths-about-how-immigrants-affect-the-u-s-economy
+
 IV. Myth 3: Immigrants worsen the economy. 
   Data Visualization 3:
   Truth: Immigrants increase innovation in economies. 
@@ -42,10 +45,12 @@ IV. Myth 3: Immigrants worsen the economy.
   Truth: Immigrants contribute billions of dollars in taxes annually, both documented and undocumented. 
     Source: ADL
     Link: https://www.adl.org/resources/fact-sheets/myths-and-facts-about-immigrants-and-immigration-en-espanol 
+
 V. Call to Action: 
 A) Share one thing you learned today with someone. 
 B) Engage in conversations around immigration reform WITH immigrant communities.
 C) Vote. 
+
 VI. ??? Humanize the data and the numbers… How to incorporate a message that the data just shows numbers but there are real human beings and families and people we all know behind these numbers. ???
 
 
