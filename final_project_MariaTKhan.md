@@ -81,6 +81,6 @@ In order to execute a successful data visualization story, I plan to:
   9. Make final edits and publish. 
   
 **Initial Sketch:**
-![IMG_85044444](https://user-images.githubusercontent.com/54717708/69021841-34d79500-0987-11ea-836f-544184b5aea1.jpg)
+![IMG_FINALSKETCH](https://user-images.githubusercontent.com/54717708/69021912-6e100500-0987-11ea-92aa-173fc0f1ca78.jpg)
 
 
