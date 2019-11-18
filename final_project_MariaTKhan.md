@@ -5,20 +5,22 @@ Stereotypes about immigrants have led to policies that separate families, large 
 
 **Outline, including Story Elements and Data Sources:**
 I. Xenophobia is a global phenomenon, including in our home; the United States. 
-  References:
-  https://www.independent.co.uk/news/uk/home-news/brexit-latest-news-leave-eu-immigration-main-reason-european-union-survey-a7811651.html
-  https://blogs.chapman.edu/wilkinson/2018/10/16/fear-of-immigration/
-  https://www.aljazeera.com/indepth/opinion/cost-xenophobia-trump-america-180803091125432.html
-  https://www.un.org/press/en/2016/gashc4182.doc.htm
-  https://psmag.com/social-justice/trump-anti-immigrant-rhetoric-making-americans-more-xenophobic
-  https://journals.sagepub.com/doi/abs/10.1177/0003122418794635?journalCode=asra
+  
+    >>References:
+    https://www.independent.co.uk/news/uk/home-news/brexit-latest-news-leave-eu-immigration-main-reason-european-union-survey-a7811651.html
+    https://blogs.chapman.edu/wilkinson/2018/10/16/fear-of-immigration/
+    https://www.aljazeera.com/indepth/opinion/cost-xenophobia-trump-america-180803091125432.html
+    https://www.un.org/press/en/2016/gashc4182.doc.htm
+    https://psmag.com/social-justice/trump-anti-immigrant-rhetoric-making-americans-more-xenophobic
+    https://journals.sagepub.com/doi/abs/10.1177/0003122418794635?journalCode=asra
 
 II. Myth 1: Increase in Immigrants Increases Crimes + Violence
+  
   >Data Visualization 1: 
   >Truth: “Each one of those murders is a tragedy but the chance that an American would be successfully killed by a refugee terrorist was one in 3.6 billion a year. Each year an American had a 0.000000028 percent chance of being murdered by a refugee terrorist each year (for those with poor eyesight, that’s seven zeros to the right of the decimal point). That's a small risk.”
-   
-   >>Source: Cato Institute
-   >>Link: https://www.cato.org/blog/syrian-refugees-precationary-principle
+  
+    >>Source: Cato Institute
+    >>Link: https://www.cato.org/blog/syrian-refugees-precationary-principle
   
   >Truth: “Immigrant populations in the United States have been growing fast for decades now. Crime in the same period, however, has moved in the opposite direction, with the national rate of violent crime today well below what it was in 1980.”
     
