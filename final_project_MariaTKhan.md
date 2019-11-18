@@ -14,10 +14,10 @@ I. Xenophobia is a global phenomenon, including in our home; the United States.
   https://journals.sagepub.com/doi/abs/10.1177/0003122418794635?journalCode=asra
 
 II. Myth 1: Increase in Immigrants Increases Crimes + Violence
-  Data Visualization 1: 
-  Truth: “Each one of those murders is a tragedy but the chance that an American would be successfully killed by a refugee terrorist was one in 3.6 billion a year. Each year an American had a 0.000000028 percent chance of being murdered by a refugee terrorist each year (for those with poor eyesight, that’s seven zeros to the right of the decimal point). That's a small risk.”
-    Source: Cato Institute
-    Link: https://www.cato.org/blog/syrian-refugees-precationary-principle
+  >Data Visualization 1: 
+  >Truth: “Each one of those murders is a tragedy but the chance that an American would be successfully killed by a refugee terrorist was one in 3.6 billion a year. Each year an American had a 0.000000028 percent chance of being murdered by a refugee terrorist each year (for those with poor eyesight, that’s seven zeros to the right of the decimal point). That's a small risk.”
+    >>Source: Cato Institute
+    >>Link: https://www.cato.org/blog/syrian-refugees-precationary-principle
   Truth: “Immigrant populations in the United States have been growing fast for decades now. Crime in the same period, however, has moved in the opposite direction, with the national rate of violent crime today well below what it was in 1980.”
     Source: Anna Flag, Senior Data Reporter at The Marshall Project. MS in HCI from the University of British Columbia 
     Link: https://www.themarshallproject.org/2018/03/30/the-myth-of-the-criminal-immigrant
