@@ -16,17 +16,24 @@ I. Xenophobia is a global phenomenon, including in our home; the United States.
 II. Myth 1: Increase in Immigrants Increases Crimes + Violence
   >Data Visualization 1: 
   >Truth: “Each one of those murders is a tragedy but the chance that an American would be successfully killed by a refugee terrorist was one in 3.6 billion a year. Each year an American had a 0.000000028 percent chance of being murdered by a refugee terrorist each year (for those with poor eyesight, that’s seven zeros to the right of the decimal point). That's a small risk.”
-    >>Source: Cato Institute
-    >>Link: https://www.cato.org/blog/syrian-refugees-precationary-principle
-  Truth: “Immigrant populations in the United States have been growing fast for decades now. Crime in the same period, however, has moved in the opposite direction, with the national rate of violent crime today well below what it was in 1980.”
-    Source: Anna Flag, Senior Data Reporter at The Marshall Project. MS in HCI from the University of British Columbia 
-    Link: https://www.themarshallproject.org/2018/03/30/the-myth-of-the-criminal-immigrant
-  Truth: “The results from fixed‐effects regression models reveal that undocumented immigration does not increase violence.”
-    Source: Michael T. Light, Criminology Journal 
-    Link: https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12175  
-  Truth: “According to the U.S. Chamber of Commerce, while the overall percentage of immigrants and the number of undocumented immigrants in the U.S. both increased sharply between 1990 and 2010, the violent crime rate in the U.S. during that time plummeted 45 percent and the property crime rate dropped by 42 percent.”
-    Source: US Chamber of Commerce
-    Link: https://www.adl.org/resources/fact-sheets/myths-and-facts-about-immigrants-and-immigration-en-espanol
+   
+   >>Source: Cato Institute
+   >>Link: https://www.cato.org/blog/syrian-refugees-precationary-principle
+  
+  >Truth: “Immigrant populations in the United States have been growing fast for decades now. Crime in the same period, however, has moved in the opposite direction, with the national rate of violent crime today well below what it was in 1980.”
+    
+    >>Source: Anna Flag, Senior Data Reporter at The Marshall Project. MS in HCI from the University of British Columbia 
+    >>Link: https://www.themarshallproject.org/2018/03/30/the-myth-of-the-criminal-immigrant
+  
+  >Truth: “The results from fixed‐effects regression models reveal that undocumented immigration does not increase violence.”
+    
+    >>Source: Michael T. Light, Criminology Journal 
+    >>Link: https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12175  
+  
+  >Truth: “According to the U.S. Chamber of Commerce, while the overall percentage of immigrants and the number of undocumented immigrants in the U.S. both increased sharply between 1990 and 2010, the violent crime rate in the U.S. during that time plummeted 45 percent and the property crime rate dropped by 42 percent.”
+    
+    >>Source: US Chamber of Commerce
+    >>Link: https://www.adl.org/resources/fact-sheets/myths-and-facts-about-immigrants-and-immigration-en-espanol
 
 III. Myth 2: Immigrants take jobs from native born Americans.
   Data Visualization 2: 
