@@ -15,3 +15,6 @@ An assignment and experiementation with OECD data:
 
 An assignment and experimentation with ACS 2017 data: 
 [ACS 2017 DACA Visualization](/ACS2017_DACA_DataViz.md)
+
+The planning and execution stages of my Final Project on Debunking Myths about Immigrants in the US:
+[Khan Final Project 2019]/(final_project_MariaTKhan.md)
