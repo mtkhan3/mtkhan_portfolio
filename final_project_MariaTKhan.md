@@ -16,8 +16,6 @@ I. Xenophobia is a global phenomenon, including in our home; the United States.
 
 II. Myth 1: Increase in Immigrants Increases Crimes + Violence
   
-  >Data Visualization 1: 
-  
   >Truth: “Each one of those murders is a tragedy but the chance that an American would be successfully killed by a refugee terrorist was one in 3.6 billion a year. Each year an American had a 0.000000028 percent chance of being murdered by a refugee terrorist each year (for those with poor eyesight, that’s seven zeros to the right of the decimal point). That's a small risk.”
   
     >>Source: Cato Institute
@@ -40,8 +38,6 @@ II. Myth 1: Increase in Immigrants Increases Crimes + Violence
 
 III. Myth 2: Immigrants take jobs from native born Americans.
   
-  >Data Visualization 2: 
-  
   >Truth: “This paper demonstrates that low-skilled Mexican-born immigrants’ location choices respond strongly to changes in local labor demand, which helps equalize spatial differences in employment outcomes for low-skilled native workers… Further, Mexican mobility reduced the incidence of local demand shocks on natives, such that those living in metro areas with a substantial Mexican-born population experienced a roughly 50 percent weaker relationship between local shocks and local employment probabilities.” 
     
     >>Source: Brian Kovak and Brian Cadena, Carnegie Mellon University
@@ -53,8 +49,6 @@ III. Myth 2: Immigrants take jobs from native born Americans.
     >>Link: https://www.pbs.org/newshour/economy/making-sense/4-myths-about-how-immigrants-affect-the-u-s-economy
 
 IV. Myth 3: Immigrants worsen the economy. 
-  
-  >Data Visualization 3:
   
   >Truth: Immigrants increase innovation in economies. 
     
