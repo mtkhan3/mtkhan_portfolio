@@ -39,27 +39,37 @@ II. Myth 1: Increase in Immigrants Increases Crimes + Violence
     >>Link: https://www.adl.org/resources/fact-sheets/myths-and-facts-about-immigrants-and-immigration-en-espanol
 
 III. Myth 2: Immigrants take jobs from native born Americans.
-  Data Visualization 2: 
-  Truth: “This paper demonstrates that low-skilled Mexican-born immigrants’ location choices respond strongly to changes in local labor demand, which helps equalize spatial differences in employment outcomes for low-skilled native workers… Further, Mexican mobility reduced the incidence of local demand shocks on natives, such that those living in metro areas with a substantial Mexican-born population experienced a roughly 50 percent weaker relationship between local shocks and local employment probabilities.” 
-    Source: Brian Kovak and Brian Cadena, Carnegie Mellon University
-    Link: http://www.andrew.cmu.edu/user/bkovak/cadenakovak_greatrecession.pdf
-  Truth: “Immigrants make up 17 percent of the U.S. labor force, according to the U.S. Bureau of Labor Statistics. Census data shows that immigrants accounted for 24 percent of nursing, psychiatric and home care aides in 2015. A study from the bipartisan research organization New American Economy found immigrants were 15 percent more likely to work unusual hours than similar U.S.-born workers. They are also more likely to be employed in dangerous jobs, according to data from the American Community Survey and Bureau of Statistics.”
-    Source: PBS.org 
-    Link: https://www.pbs.org/newshour/economy/making-sense/4-myths-about-how-immigrants-affect-the-u-s-economy
+  
+  >Data Visualization 2: 
+  
+  >Truth: “This paper demonstrates that low-skilled Mexican-born immigrants’ location choices respond strongly to changes in local labor demand, which helps equalize spatial differences in employment outcomes for low-skilled native workers… Further, Mexican mobility reduced the incidence of local demand shocks on natives, such that those living in metro areas with a substantial Mexican-born population experienced a roughly 50 percent weaker relationship between local shocks and local employment probabilities.” 
+    
+    >>Source: Brian Kovak and Brian Cadena, Carnegie Mellon University
+    >>Link: http://www.andrew.cmu.edu/user/bkovak/cadenakovak_greatrecession.pdf
+  
+  >Truth: “Immigrants make up 17 percent of the U.S. labor force, according to the U.S. Bureau of Labor Statistics. Census data shows that immigrants accounted for 24 percent of nursing, psychiatric and home care aides in 2015. A study from the bipartisan research organization New American Economy found immigrants were 15 percent more likely to work unusual hours than similar U.S.-born workers. They are also more likely to be employed in dangerous jobs, according to data from the American Community Survey and Bureau of Statistics.”
+    
+    >>Source: PBS.org 
+    >>Link: https://www.pbs.org/newshour/economy/making-sense/4-myths-about-how-immigrants-affect-the-u-s-economy
 
 IV. Myth 3: Immigrants worsen the economy. 
-  Data Visualization 3:
-  Truth: Immigrants increase innovation in economies. 
-    Source: Gagliardi, Luisa. “Does Skilled Migration Foster Innovative Performance? Evidence from British Local Areas.” Wiley Online Library, London School of Economics, 20 Jan. 2014
-    Link: onlinelibrary.wiley.com/doi/full/10.1111/pirs.12095
-  Truth: Immigrants contribute billions of dollars in taxes annually, both documented and undocumented. 
-    Source: ADL
-    Link: https://www.adl.org/resources/fact-sheets/myths-and-facts-about-immigrants-and-immigration-en-espanol 
+  
+  >Data Visualization 3:
+  
+  >Truth: Immigrants increase innovation in economies. 
+    
+    >>Source: Gagliardi, Luisa. “Does Skilled Migration Foster Innovative Performance? Evidence from British Local Areas.” Wiley Online Library, London School of Economics, 20 Jan. 2014
+    >>Link: onlinelibrary.wiley.com/doi/full/10.1111/pirs.12095
+  
+  >Truth: Immigrants contribute billions of dollars in taxes annually, both documented and undocumented. 
+    
+    >>Source: ADL
+    >>Link: https://www.adl.org/resources/fact-sheets/myths-and-facts-about-immigrants-and-immigration-en-espanol 
 
 V. Call to Action: 
-  A) Share one thing you learned today with someone. 
-  B) Engage in conversations around immigration reform WITH immigrant communities.
-  C) Vote. 
+  >A) Share one thing you learned today with someone. 
+  >B) Engage in conversations around immigration reform WITH immigrant communities.
+  >C) Vote. 
 
 VI. ??? Humanize the data and the numbers… How to incorporate a message that the data just shows numbers but there are real human beings and families and people we all know behind these numbers. ???
 
