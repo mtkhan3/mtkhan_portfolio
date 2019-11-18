@@ -17,6 +17,7 @@ I. Xenophobia is a global phenomenon, including in our home; the United States.
 II. Myth 1: Increase in Immigrants Increases Crimes + Violence
   
   >Data Visualization 1: 
+  
   >Truth: “Each one of those murders is a tragedy but the chance that an American would be successfully killed by a refugee terrorist was one in 3.6 billion a year. Each year an American had a 0.000000028 percent chance of being murdered by a refugee terrorist each year (for those with poor eyesight, that’s seven zeros to the right of the decimal point). That's a small risk.”
   
     >>Source: Cato Institute
