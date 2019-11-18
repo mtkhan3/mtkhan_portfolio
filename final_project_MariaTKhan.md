@@ -47,9 +47,9 @@ IV. Myth 3: Immigrants worsen the economy.
     Link: https://www.adl.org/resources/fact-sheets/myths-and-facts-about-immigrants-and-immigration-en-espanol 
 
 V. Call to Action: 
-A) Share one thing you learned today with someone. 
-B) Engage in conversations around immigration reform WITH immigrant communities.
-C) Vote. 
+  A) Share one thing you learned today with someone. 
+  B) Engage in conversations around immigration reform WITH immigrant communities.
+  C) Vote. 
 
 VI. ??? Humanize the data and the numbers… How to incorporate a message that the data just shows numbers but there are real human beings and families and people we all know behind these numbers. ???
 
