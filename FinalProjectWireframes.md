@@ -119,3 +119,5 @@ Deleting images throughout to make it less busy and instead, place them at the b
 Adding sources/links at the end of each data so readers have an opportunity to learn more. 
 Explaining in text why we are defining who an immigrant is to give some context and reference to the definition. 
 Changing the placement of the images at the top to come before the heavy text to break up each piece of text with either an image or text box like the definiton in this case. 
+
+![Image of Mock Up Version 2](MockUp_Khan2.png)
