@@ -9,9 +9,9 @@ The following is my creative process for wireframing and testing the clarity of 
 
 **GOALS + QUESTIONS**
 Make people interested to learn more.
->>Does the information leave you interested in wanting to learn more? Were you surprised by anything you learned today?
+  Does the information leave you interested in wanting to learn more? Were you surprised by anything you learned today?
 The information is presented in a format that easily flows and can be understood.
->>Did you learn something new today? Is the content presented in a format that is clear to you? What is unclear?
+  Did you learn something new today? Is the content presented in a format that is clear to you? What is unclear?
 
 **Script:**
 Thank you for taking the time to speak with me today! Will you tell me a little bit about how old you are, your occupation and if you’re comfortable, your citizenship status. 
@@ -121,3 +121,10 @@ Explaining in text why we are defining who an immigrant is to give some context 
 Changing the placement of the images at the top to come before the heavy text to break up each piece of text with either an image or text box like the definiton in this case. 
 
 ![Image of Mock Up Version 2](MockUp_Khan2.png)
+
+**Mood Boards**
+![Image of Mood Board 1](1.pjpg)
+![Image of Mood Board 2](2.pjpg)
+![Image of Mood Board 3](3.pjpg)
+
+
