@@ -97,10 +97,10 @@ The definition of immigrant is a little confusing as to why it’s there, maybe 
 Does the information leave you interested in wanting to learn more? 
 Uhmmm probably not. I think there are ways that might entice people. Maybe like a link to an article after every myth. I don’t know, something sensationalized. Maybe some exciting studies connected to this. 
 
-**Did anything surprise you?** 
+Did anything surprise you? 
 I don’t think so. Uhm yeah I don’t think so. 
 
-**Any additional comments?**
+Any additional comments?
 Yeah, I feel like the sentences might need a little work in the boxes. Just like grammar and there are some run on sentences. You have two iis in the word family in the first paragraph. The title and then the paragraph, it feels out of order  a little bit. Maybe the definition at the very top.
 
 
@@ -122,9 +122,9 @@ Changing the placement of the images at the top to come before the heavy text to
 
 ![Image of Mock Up Version 2](MockUp_Khan2.png)
 
-**Mood Boards**
-![Image of Mood Board 1](1.pjpg)
-![Image of Mood Board 2](2.pjpg)
-![Image of Mood Board 3](3.pjpg)
+**Mood Board**
+![Image of Mood Board 1](1.jpg)
+![Image of Mood Board 2](2.jpg)
+![Image of Mood Board 3](3.jpg)
 
 
