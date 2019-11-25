@@ -17,4 +17,7 @@ An assignment and experimentation with ACS 2017 data:
 [ACS 2017 DACA Visualization](/ACS2017_DACA_DataViz.md)
 
 The planning and execution stages of my Final Project on Debunking Myths about Immigrants in the US:
-[Khan Final Project 2019](/final_project_MariaTKhan.md)
+[Khan Final Project Planning and Outline 2019](/final_project_MariaTKhan.md)
+
+The creative process of wireframing, user research, multiple iterations, and a mood board for my Final Project: 
+[Khan Final Project Wireframes 2019](/FinalProjectWireframes.md)
