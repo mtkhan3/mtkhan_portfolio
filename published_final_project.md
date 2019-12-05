@@ -1,4 +1,4 @@
-The final published version of my data visualization project: ["Demystifying Immigrants"; a data visualiztion story breaking down three popular myths about immigrants in the US.](https://carnegiemellon.shorthandstories.com/demystifyingimmigrants/index.html)
+The final published version of my data visualization project: [Demystifying Immigrants; a data visualiztion story breaking down three popular myths about immigrants in the US.](https://carnegiemellon.shorthandstories.com/demystifyingimmigrants/index.html)
 
 And just like that, the final data visualization story is complete. The entire process is a lot more tipsy turvy than what I was prepared for. Here’s a behind the scenes of my thought process when developing the final story. 
 
