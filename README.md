@@ -21,3 +21,6 @@ The planning and execution stages of my Final Project on Debunking Myths about I
 
 The creative process of wireframing, user research, multiple iterations, and a mood board for my Final Project: 
 [Khan Final Project Wireframes 2019](/FinalProjectWireframes.md)
+
+The published, final version of my data visualization story on "Demystifying Immigrants" and my final reflections on the process:
+[Khan Final Project Published December 2019: "Demystifying Immigrants"](/published_final_project.md)
