@@ -1,7 +1,6 @@
 The final published version of my data visualization project; "Demystifying Immigrants" by Maria T. Khan
 
-View Here: <script src="https://embed.shorthand.com/embed_6.js"></script>
-<div data-shorthand-embed="carnegiemellon.shorthandstories.com/demystifyingimmigrants/"><h1>Demystifying Immigrants </h1></div>
+View Here: ["Demystifying Immigrants", a data visualiztion story by Maria T. Khan](https://carnegiemellon.shorthandstories.com/demystifyingimmigrants/index.html)
 
 And just like that, the final data visualization story is complete. The entire process is a lot more tipsy turvy than what I was prepared for. Here’s a behind the scenes of my thought process when developing the final story. 
 
